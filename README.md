@@ -3,11 +3,11 @@
 
 
 - 👩 I’m a Software Engineer from Brazil.
-- 
+
 - 🌱 I’m currently learning Python, HTML, CSS and JavaScript.
-- 
+
 - 💬 Ask me about anything.
-- 
+
 - 📫 How to reach me: taynara.freita98@gmail.com
 
 <div align="center">
