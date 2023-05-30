@@ -4,7 +4,7 @@
 
 - 👩 I’m a Software Engineer from Brazil.
 
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript.
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and TypeScript.
 
 - 💬 Ask me about anything.
 
