@@ -22,3 +22,7 @@ A Software Engineer from São Paulo, Brazil <br/>
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
+---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n5uwv5dukcl7ld4yl35nw5i62i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
